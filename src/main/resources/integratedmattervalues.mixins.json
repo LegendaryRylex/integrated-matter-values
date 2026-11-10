@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "dev.rylex.integratedmattervalues.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "client": [
+    "IngredientComponentTerminalStorageHandlerItemStackClientMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
