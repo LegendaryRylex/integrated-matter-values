@@ -4,7 +4,8 @@
   "package": "dev.rylex.integratedmattervalues.mixin",
   "compatibilityLevel": "JAVA_25",
   "client": [
-    "IngredientComponentTerminalStorageHandlerItemStackClientMixin"
+    "IngredientComponentTerminalStorageHandlerItemStackClientMixin",
+    "MatterTooltipClientComponentMixin"
   ],
   "injectors": {
     "defaultRequire": 1
