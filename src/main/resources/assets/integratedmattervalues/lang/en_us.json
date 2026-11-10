@@ -1,0 +1,5 @@
+{
+  "integratedmattervalues.configuration.title": "Integrated Matter Values",
+  "integratedmattervalues.configuration.require_shift": "Require Shift",
+  "integratedmattervalues.configuration.require_shift.tooltip": "Only show matter values in Integrated Terminals while Shift is held, with a hint line otherwise."
+}
