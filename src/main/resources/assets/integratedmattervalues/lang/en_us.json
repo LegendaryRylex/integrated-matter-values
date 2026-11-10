@@ -1,5 +1,7 @@
 {
   "integratedmattervalues.configuration.title": "Integrated Matter Values",
   "integratedmattervalues.configuration.require_shift": "Require Shift",
-  "integratedmattervalues.configuration.require_shift.tooltip": "Only show matter values in Integrated Terminals while Shift is held, with a hint line otherwise."
+  "integratedmattervalues.configuration.require_shift.tooltip": "Only show matter values in Integrated Terminals while Shift is held, with a hint line otherwise.",
+  "integratedmattervalues.configuration.exact_values": "Exact Values",
+  "integratedmattervalues.configuration.exact_values.tooltip": "Show matter values below 1000 with up to two decimals, such as 0.25, instead of rounded up to a whole number. Applies to every Replication matter tooltip, not only Integrated Terminals."
 }
